@@ -1,0 +1,16 @@
+* {
+    box-sizing: border-box;
+}
+body {
+    margin: 0;
+}
+.wrap {
+    width: 1140px;
+    margin: 0 auto;
+    outline: 1px solid red;
+    height: 75px;
+}
+.header {
+    background-color: #222222;
+    outline: 1px solid green;
+}
